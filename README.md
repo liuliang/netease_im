@@ -45,6 +45,13 @@ NeteaseIM Server SDK in Ruby.
 - send_batch_msg  批量发送点对点普通消息
 - send_attach_msg  发送自定义系统通知
 
+### History
+- query_session_msg  单聊云端历史消息查询
+- query_team_msg  群聊云端历史消息查询
+- query_chatroom_msg  聊天室云端历史消息查询
+- delete_history_message  删除聊天室云端历史消息
+- query_user_events  用户登录登出事件记录查询
+
 ### 例子
 ```ruby
 

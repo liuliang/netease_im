@@ -7,6 +7,7 @@ require 'netease_im/request'
 require 'netease_im/user'
 require 'netease_im/chat_room'
 require 'netease_im/msg'
+require 'netease_im/history'
 
 module NeteaseIM
   class << self
